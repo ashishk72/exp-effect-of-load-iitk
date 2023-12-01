@@ -120,6 +120,7 @@ function moveObject9() {
     // Get the position of the target object
     const targetRect = targetObject.getBoundingClientRect();
     // const targetX = targetRect.left;
+    
     // const targetY = targetRect.top;
 
     // Move the object to the target position
