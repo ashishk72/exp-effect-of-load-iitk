@@ -124,7 +124,7 @@ function moveObject9() {
 
     // Move the object to the target position
     objectToMove9.style.transition = 'transform 2s ease'; // Add a smooth transition effect
-    objectToMove9.style.transform = `translate(690px, -685px)`;
+    objectToMove9.style.transform = `translate(640px, -705px)`;
 }
 
 moveButton9.addEventListener('click', moveObject9);
